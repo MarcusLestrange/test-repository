@@ -1,3 +1,4 @@
 Hello its main branch
 Hello its feature-branch
 Its 3rd line in feature-branch
+Line in new-feature branch
